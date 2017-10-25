@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [{
+    "type": "Feature",
+    "properties": {
+      "name": "Wohnort"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [16.38434886932373, 48.1473909314595]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Schule"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [16.37838363647461, 48.15489960502477]
+    }
+  }]
+}
