@@ -17,15 +17,15 @@
     "geometry": {
       "type": "Point",
       "coordinates": [16.37838363647461, 48.15489960502477]
+      }
     }, {
     "type": "Feature",
     "properties": {
-      "name": "Philipp"
+      "name": "Philipp's Lieblingscafé 1090"
     },
     "geometry": {
       "type": "Point",
-      "coordinates": [16.39838363647461, 48.16489960502477]
-    }
+      "coordinates": [16.3617511, 48.2149861]
     }
   }]
 }
