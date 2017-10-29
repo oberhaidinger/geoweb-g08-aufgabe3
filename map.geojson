@@ -17,6 +17,14 @@
     "geometry": {
       "type": "Point",
       "coordinates": [16.37838363647461, 48.15489960502477]
+    }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Philipp"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [16.39838363647461, 48.16489960502477]
     }
   }]
 }
