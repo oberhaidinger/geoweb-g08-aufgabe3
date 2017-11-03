@@ -1,31 +1,30 @@
 {
   "type": "FeatureCollection",
   "features": [{
-    "type": "Feature",
-    "properties": {
-      "name": "Wohnort"
-    },
-    "geometry": {
-      "type": "Point",
-      "coordinates": [16.38434886932373, 48.1473909314595]
-    }
-  }, {
-    "type": "Feature",
-    "properties": {
-      "name": "Schule"
-    },
-    "geometry": {
-      "type": "Point",
-      "coordinates": [16.37838363647461, 48.15489960502477]
+      "type": "Feature",
+      "properties": {
+        "name": "Max Mustermann"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.388854980468746,
+          48.17249666038475
+        ]
       }
-    }, {
-    "type": "Feature",
-    "properties": {
-      "name": "Philipp's Lieblingscafé 1090"
     },
-    "geometry": {
-      "type": "Point",
-      "coordinates": [16.3617511, 48.2149861]
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Maximiliane Musterfrau"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.354522705078125,
+          48.191725575618726
+        ]
+      }
     }
-  }]
+  ]
 }
