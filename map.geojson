@@ -1,31 +1,58 @@
 {
   "type": "FeatureCollection",
   "features": [{
-    "type": "Feature",
-    "properties": {
-      "name": "Wohnort"
-    },
-    "geometry": {
-      "type": "Point",
-      "coordinates": [16.38434886932373, 48.1473909314595]
-    }
-  }, {
-    "type": "Feature",
-    "properties": {
-      "name": "Schule"
-    },
-    "geometry": {
-      "type": "Point",
-      "coordinates": [16.37838363647461, 48.15489960502477]
+      "type": "Feature",
+      "properties": {
+        "name": "Ines"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.487367153167725,
+          48.220555424445
+        ]
       }
-    }, {
-    "type": "Feature",
-    "properties": {
-      "name": "Philipp's Lieblingscafé 1090"
     },
-    "geometry": {
-      "type": "Point",
-      "coordinates": [16.3617511, 48.2149861]
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Valentina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3676118850708,
+          48.18783459162184
+        ]
+      }
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Philipp"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.375529766082764,
+          48.21949747284637
+        ]
+      }
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kerem"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.38460636138916,
+          48.14809245559247
+        ]
+      }
     }
-  }]
+  ]
 }
