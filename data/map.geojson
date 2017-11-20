@@ -1,0 +1,58 @@
+{
+  "type": "FeatureCollection",
+  "features": [{
+      "type": "Feature",
+      "properties": {
+        "name": "Ines"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.487367153167725,
+          48.220555424445
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Valentina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3676118850708,
+          48.18783459162184
+        ]
+      }
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Philipp"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.375529766082764,
+          48.21949747284637
+        ]
+      }
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kerem"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.38460636138916,
+          48.14809245559247
+        ]
+      }
+    }
+  ]
+}
