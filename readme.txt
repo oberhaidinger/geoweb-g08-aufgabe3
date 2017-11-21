@@ -1,21 +1,13 @@
-****************************************
+1) Setup clone-repository:
+1.1) Über die Eingabeaufforderung: Befehl 'git clone' + link zum github repository 
+("klont" die benötigten Files auf die lokale Festplatte)
+1.2) Ansteuerung des lokalen Clone-Ordners (in der Eingabeaufferdungen mit 
+'cd' + entsprechendem Ordnername)
 
-GeoWeb Übung Gruppe 8 - Aufgabe 3
-Karte der Wohnorte der Team-Mitglieder
+2) Setup npm:
+2.1) Über die Eingabeaufforderung: 'npm install' + enter
+2.2) 'npm javascript-autocomplete' + enter
+2.3) 'npm start'
 
-****************************************
-
-1) visit our homepage student.ifip.tuwien.ac.at/geoweb/2017/g08/map
-
-********** OR ***********
-
-1) download github repository "geoweb-g08-aufgabe3"
-2) ersetzen der files "index.html", "main.js" und "package.json" im lokalen Ordner "openlayer-workshop-en"
-3) ersetzen des files "map.geojson" im Unterordner "data"
-4) run npm install sowie npm start
-5) visit localhost:3000 to view our map* 
-
-*the map is also embedded in our website.
-
-
-*****************************************
+3) View map:
+Über den Browser 'localhost:3000' aufrufen; dort sollte die Karte zu sehen sein.
